@@ -1,0 +1,13 @@
+# এনভায়রনমেন্ট ফাইল
+.env
+
+# পাইথন ভার্চুয়াল এনভায়রনমেন্ট এবং ক্যাশ
+venv/
+__pycache__/
+*.pyc
+
+# কনফিগারেশন এবং অদরকারী ফাইল
+cookies.txt
+railway.json
+runtime.txt
+.DS_Store
