@@ -1,0 +1,21 @@
+{
+  "build": {
+    "nixpacks": {
+      "plan": {
+        "providers": ["python"],
+        "apt": ["ffmpeg"]
+      }
+    }
+  }
+=======
+{
+  "build": {
+    "nixpacks": {
+      "plan": {
+        "providers": ["python"],
+        "apt": ["ffmpeg"]
+      }
+    }
+  }
+>>>>>>> 786132055f75e50360c2126baf7e79ddd857865b
+}
